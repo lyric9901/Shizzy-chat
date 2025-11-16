@@ -4,7 +4,7 @@
    ============================================================ */
 
 /* ---------- CONFIG ---------- */
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "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";
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
 const MODEL_NAME = "deepseek/deepseek-chat";
 
@@ -368,3 +368,4 @@ chatForm.addEventListener("submit", (e) => {
         }, 600);
     }
 })();
+
